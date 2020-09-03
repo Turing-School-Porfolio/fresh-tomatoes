@@ -1,4 +1,5 @@
 # Fresh Tomatoes
+![](https://media.giphy.com/media/hrjgPy5yxUzPsNrO9i/giphy.gif)
 ### Contributors
 - Becca Steinbrecher (GitHub: [b-stein](https://github.com/b-stein))
 - Andy Tom (GitHub: [attom2](https://github.com/attom2))
